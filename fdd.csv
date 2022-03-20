@@ -1,0 +1,381 @@
+Country,Year_New,Item,Value
+Algeria,2004,Rice,0
+Algeria,2005,Rice,0
+Algeria,2006,Rice,0
+Algeria,2007,Rice,0
+Algeria,2008,Rice,0
+Algeria,2009,Rice,0
+Algeria,2010,Rice,0
+Algeria,2011,Rice,0
+Algeria,2012,Rice,0
+Algeria,2013,Rice,0
+Angola,2004,Rice,9
+Angola,2005,Rice,6
+Angola,2006,Rice,3
+Angola,2007,Rice,3
+Angola,2008,Rice,6
+Angola,2009,Rice,10
+Angola,2010,Rice,12
+Angola,2011,Rice,15
+Angola,2012,Rice,14
+Angola,2013,Rice,25
+Benin,2004,Rice,43
+Benin,2005,Rice,52
+Benin,2006,Rice,47
+Benin,2007,Rice,50
+Benin,2008,Rice,70
+Benin,2009,Rice,75
+Benin,2010,Rice,83
+Benin,2011,Rice,146
+Benin,2012,Rice,146
+Benin,2013,Rice,138
+Burkina Faso,2004,Rice,50
+Burkina Faso,2005,Rice,62
+Burkina Faso,2006,Rice,76
+Burkina Faso,2007,Rice,46
+Burkina Faso,2008,Rice,130
+Burkina Faso,2009,Rice,142
+Burkina Faso,2010,Rice,181
+Burkina Faso,2011,Rice,161
+Burkina Faso,2012,Rice,213
+Burkina Faso,2013,Rice,204
+Cameroon,2004,Rice,33
+Cameroon,2005,Rice,39
+Cameroon,2006,Rice,43
+Cameroon,2007,Rice,46
+Cameroon,2008,Rice,48
+Cameroon,2009,Rice,90
+Cameroon,2010,Rice,102
+Cameroon,2011,Rice,116
+Cameroon,2012,Rice,121
+Cameroon,2013,Rice,129
+Central African Republic,2004,Rice,21
+Central African Republic,2005,Rice,31
+Central African Republic,2006,Rice,27
+Central African Republic,2007,Rice,25
+Central African Republic,2008,Rice,25
+Central African Republic,2009,Rice,26
+Central African Republic,2010,Rice,26
+Central African Republic,2011,Rice,27
+Central African Republic,2012,Rice,28
+Central African Republic,2013,Rice,25
+Chad,2004,Rice,61
+Chad,2005,Rice,99
+Chad,2006,Rice,71
+Chad,2007,Rice,71
+Chad,2008,Rice,113
+Chad,2009,Rice,117
+Chad,2010,Rice,113
+Chad,2011,Rice,115
+Chad,2012,Rice,187
+Chad,2013,Rice,220
+Congo,2004,Rice,1
+Congo,2005,Rice,1
+Congo,2006,Rice,1
+Congo,2007,Rice,1
+Congo,2008,Rice,1
+Congo,2009,Rice,1
+Congo,2010,Rice,1
+Congo,2011,Rice,1
+Congo,2012,Rice,1
+Congo,2013,Rice,1
+Cote d'Ivoire,2004,Rice,455
+Cote d'Ivoire,2005,Rice,470
+Cote d'Ivoire,2006,Rice,478
+Cote d'Ivoire,2007,Rice,404
+Cote d'Ivoire,2008,Rice,454
+Cote d'Ivoire,2009,Rice,459
+Cote d'Ivoire,2010,Rice,805
+Cote d'Ivoire,2011,Rice,582
+Cote d'Ivoire,2012,Rice,1042
+Cote d'Ivoire,2013,Rice,1290
+Egypt,2004,Rice,4237
+Egypt,2005,Rice,4086
+Egypt,2006,Rice,4506
+Egypt,2007,Rice,4587
+Egypt,2008,Rice,4838
+Egypt,2009,Rice,3682
+Egypt,2010,Rice,2888
+Egypt,2011,Rice,3785
+Egypt,2012,Rice,3943
+Egypt,2013,Rice,3818
+Ethiopia,2004,Rice,8
+Ethiopia,2005,Rice,7
+Ethiopia,2006,Rice,7
+Ethiopia,2007,Rice,7
+Ethiopia,2008,Rice,48
+Ethiopia,2009,Rice,69
+Ethiopia,2010,Rice,60
+Ethiopia,2011,Rice,59
+Ethiopia,2012,Rice,81
+Ethiopia,2013,Rice,123
+Gabon,2004,Rice,1
+Gabon,2005,Rice,1
+Gabon,2006,Rice,1
+Gabon,2007,Rice,1
+Gabon,2008,Rice,1
+Gabon,2009,Rice,1
+Gabon,2010,Rice,1
+Gabon,2011,Rice,1
+Gabon,2012,Rice,1
+Gabon,2013,Rice,1
+Gambia,2004,Rice,22
+Gambia,2005,Rice,12
+Gambia,2006,Rice,21
+Gambia,2007,Rice,8
+Gambia,2008,Rice,26
+Gambia,2009,Rice,53
+Gambia,2010,Rice,67
+Gambia,2011,Rice,34
+Gambia,2012,Rice,36
+Gambia,2013,Rice,46
+Ghana,2004,Rice,161
+Ghana,2005,Rice,191
+Ghana,2006,Rice,167
+Ghana,2007,Rice,124
+Ghana,2008,Rice,201
+Ghana,2009,Rice,261
+Ghana,2010,Rice,328
+Ghana,2011,Rice,309
+Ghana,2012,Rice,321
+Ghana,2013,Rice,380
+Guinea,2004,Rice,806
+Guinea,2005,Rice,849
+Guinea,2006,Rice,894
+Guinea,2007,Rice,935
+Guinea,2008,Rice,1023
+Guinea,2009,Rice,971
+Guinea,2010,Rice,1076
+Guinea,2011,Rice,1196
+Guinea,2012,Rice,1280
+Guinea,2013,Rice,1370
+Guinea-Bissau,2004,Rice,59
+Guinea-Bissau,2005,Rice,66
+Guinea-Bissau,2006,Rice,71
+Guinea-Bissau,2007,Rice,85
+Guinea-Bissau,2008,Rice,99
+Guinea-Bissau,2009,Rice,121
+Guinea-Bissau,2010,Rice,140
+Guinea-Bissau,2011,Rice,117
+Guinea-Bissau,2012,Rice,132
+Guinea-Bissau,2013,Rice,140
+Kenya,2004,Rice,33
+Kenya,2005,Rice,42
+Kenya,2006,Rice,43
+Kenya,2007,Rice,32
+Kenya,2008,Rice,15
+Kenya,2009,Rice,28
+Kenya,2010,Rice,57
+Kenya,2011,Rice,74
+Kenya,2012,Rice,82
+Kenya,2013,Rice,98
+Liberia,2004,Rice,73
+Liberia,2005,Rice,103
+Liberia,2006,Rice,109
+Liberia,2007,Rice,155
+Liberia,2008,Rice,197
+Liberia,2009,Rice,195
+Liberia,2010,Rice,197
+Liberia,2011,Rice,199
+Liberia,2012,Rice,194
+Liberia,2013,Rice,180
+Madagascar,2004,Rice,2021
+Madagascar,2005,Rice,2263
+Madagascar,2006,Rice,2326
+Madagascar,2007,Rice,2398
+Madagascar,2008,Rice,2611
+Madagascar,2009,Rice,3028
+Madagascar,2010,Rice,3160
+Madagascar,2011,Rice,2868
+Madagascar,2012,Rice,3035
+Madagascar,2013,Rice,2408
+Malawi,2004,Rice,33
+Malawi,2005,Rice,28
+Malawi,2006,Rice,61
+Malawi,2007,Rice,75
+Malawi,2008,Rice,77
+Malawi,2009,Rice,91
+Malawi,2010,Rice,73
+Malawi,2011,Rice,79
+Malawi,2012,Rice,74
+Malawi,2013,Rice,83
+Mali,2004,Rice,479
+Mali,2005,Rice,631
+Mali,2006,Rice,703
+Mali,2007,Rice,722
+Mali,2008,Rice,1083
+Mali,2009,Rice,1301
+Mali,2010,Rice,1538
+Mali,2011,Rice,1162
+Mali,2012,Rice,1277
+Mali,2013,Rice,1475
+Mauritania,2004,Rice,57
+Mauritania,2005,Rice,48
+Mauritania,2006,Rice,47
+Mauritania,2007,Rice,55
+Mauritania,2008,Rice,55
+Mauritania,2009,Rice,36
+Mauritania,2010,Rice,90
+Mauritania,2011,Rice,105
+Mauritania,2012,Rice,123
+Mauritania,2013,Rice,135
+Mauritius,2004,Rice,0
+Mauritius,2005,Rice,0
+Mauritius,2006,Rice,0
+Mauritius,2007,Rice,0
+Mauritius,2008,Rice,0
+Mauritius,2009,Rice,0
+Mauritius,2010,Rice,0
+Mauritius,2011,Rice,0
+Mauritius,2012,Rice,1
+Mauritius,2013,Rice,0
+Morocco,2004,Rice,20
+Morocco,2005,Rice,29
+Morocco,2006,Rice,23
+Morocco,2007,Rice,22
+Morocco,2008,Rice,30
+Morocco,2009,Rice,33
+Morocco,2010,Rice,34
+Morocco,2011,Rice,12
+Morocco,2012,Rice,46
+Morocco,2013,Rice,25
+Mozambique,2004,Rice,61
+Mozambique,2005,Rice,43
+Mozambique,2006,Rice,65
+Mozambique,2007,Rice,69
+Mozambique,2008,Rice,68
+Mozambique,2009,Rice,119
+Mozambique,2010,Rice,172
+Mozambique,2011,Rice,181
+Mozambique,2012,Rice,98
+Mozambique,2013,Rice,234
+Niger,2004,Rice,52
+Niger,2005,Rice,40
+Niger,2006,Rice,52
+Niger,2007,Rice,47
+Niger,2008,Rice,22
+Niger,2009,Rice,13
+Niger,2010,Rice,20
+Niger,2011,Rice,8
+Niger,2012,Rice,4
+Niger,2013,Rice,9
+Nigeria,2004,Rice,2224
+Nigeria,2005,Rice,2379
+Nigeria,2006,Rice,2696
+Nigeria,2007,Rice,2125
+Nigeria,2008,Rice,2787
+Nigeria,2009,Rice,2365
+Nigeria,2010,Rice,2983
+Nigeria,2011,Rice,3046
+Nigeria,2012,Rice,3224
+Nigeria,2013,Rice,3135
+Rwanda,2004,Rice,31
+Rwanda,2005,Rice,41
+Rwanda,2006,Rice,42
+Rwanda,2007,Rice,41
+Rwanda,2008,Rice,55
+Rwanda,2009,Rice,54
+Rwanda,2010,Rice,45
+Rwanda,2011,Rice,54
+Rwanda,2012,Rice,56
+Rwanda,2013,Rice,63
+Senegal,2004,Rice,135
+Senegal,2005,Rice,186
+Senegal,2006,Rice,127
+Senegal,2007,Rice,129
+Senegal,2008,Rice,272
+Senegal,2009,Rice,335
+Senegal,2010,Rice,403
+Senegal,2011,Rice,271
+Senegal,2012,Rice,313
+Senegal,2013,Rice,291
+Sierra Leone,2004,Rice,362
+Sierra Leone,2005,Rice,492
+Sierra Leone,2006,Rice,709
+Sierra Leone,2007,Rice,392
+Sierra Leone,2008,Rice,454
+Sierra Leone,2009,Rice,593
+Sierra Leone,2010,Rice,685
+Sierra Leone,2011,Rice,753
+Sierra Leone,2012,Rice,761
+Sierra Leone,2013,Rice,837
+South Africa,2004,Rice,2
+South Africa,2005,Rice,3
+South Africa,2006,Rice,2
+South Africa,2007,Rice,2
+South Africa,2008,Rice,2
+South Africa,2009,Rice,2
+South Africa,2010,Rice,2
+South Africa,2011,Rice,2
+South Africa,2012,Rice,2
+South Africa,2013,Rice,3
+Sudan,2004,Rice,24
+Sudan,2005,Rice,13
+Sudan,2006,Rice,17
+Sudan,2007,Rice,15
+Sudan,2008,Rice,20
+Sudan,2009,Rice,15
+Sudan,2010,Rice,16
+Sudan,2011,Rice,17
+Sudan,2012,Rice,16
+Sudan,2013,Rice,17
+Swaziland,2004,Rice,0
+Swaziland,2005,Rice,0
+Swaziland,2006,Rice,0
+Swaziland,2007,Rice,0
+Swaziland,2008,Rice,0
+Swaziland,2009,Rice,0
+Swaziland,2010,Rice,0
+Swaziland,2011,Rice,0
+Swaziland,2012,Rice,0
+Swaziland,2013,Rice,0
+Togo,2004,Rice,46
+Togo,2005,Rice,49
+Togo,2006,Rice,51
+Togo,2007,Rice,50
+Togo,2008,Rice,57
+Togo,2009,Rice,81
+Togo,2010,Rice,73
+Togo,2011,Rice,75
+Togo,2012,Rice,107
+Togo,2013,Rice,64
+Uganda,2004,Rice,81
+Uganda,2005,Rice,102
+Uganda,2006,Rice,103
+Uganda,2007,Rice,108
+Uganda,2008,Rice,119
+Uganda,2009,Rice,137
+Uganda,2010,Rice,145
+Uganda,2011,Rice,155
+Uganda,2012,Rice,141
+Uganda,2013,Rice,143
+United Republic of Tanzania,2004,Rice,706
+United Republic of Tanzania,2005,Rice,779
+United Republic of Tanzania,2006,Rice,805
+United Republic of Tanzania,2007,Rice,895
+United Republic of Tanzania,2008,Rice,948
+United Republic of Tanzania,2009,Rice,890
+United Republic of Tanzania,2010,Rice,1768
+United Republic of Tanzania,2011,Rice,1500
+United Republic of Tanzania,2012,Rice,1201
+United Republic of Tanzania,2013,Rice,1464
+Zambia,2004,Rice,11
+Zambia,2005,Rice,9
+Zambia,2006,Rice,9
+Zambia,2007,Rice,12
+Zambia,2008,Rice,16
+Zambia,2009,Rice,28
+Zambia,2010,Rice,34
+Zambia,2011,Rice,33
+Zambia,2012,Rice,30
+Zambia,2013,Rice,30
+Zimbabwe,2004,Rice,0
+Zimbabwe,2005,Rice,1
+Zimbabwe,2006,Rice,0
+Zimbabwe,2007,Rice,0
+Zimbabwe,2008,Rice,0
+Zimbabwe,2009,Rice,0
+Zimbabwe,2010,Rice,0
+Zimbabwe,2011,Rice,0
+Zimbabwe,2012,Rice,0
+Zimbabwe,2013,Rice,0

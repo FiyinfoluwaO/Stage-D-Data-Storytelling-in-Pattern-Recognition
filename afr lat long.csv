@@ -1,0 +1,39 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Algiers,Algiers,36.7764,3.0586,Algeria,DZ,DZA,Alger,primary,3415811,1012973369
+Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,8883000,1024949724
+Cotonou,Cotonou,6.402,2.518,Benin,BJ,BEN,Littoral,primary,762000,1204955174
+Ouagadougou,Ouagadougou,12.3686,-1.5275,Burkina Faso,BF,BFA,Centre,primary,2453496,1854029208
+Yaoundé,Yaounde,3.8578,11.5181,Cameroon,CM,CMR,Centre,primary,2440462,1120298240
+Bangui,Bangui,4.3732,18.5628,Central African Republic,CF,CAF,Bangui,primary,889231,1140080881
+N’Djamena,N'Djamena,12.11,15.05,Chad,TD,TCD,Ville de N’Djaména,primary,1092066,1148708596
+Brazzaville,Brazzaville,-4.2667,15.2833,Congo ,CG,COG,Brazzaville,primary,1827000,1178340306
+,,5.5471,-4.024429,Cote d'Ivoire,,,,,,
+Cairo,Cairo,30.0444,31.2358,Egypt,EG,EGY,Al Qāhirah,primary,19787000,1818253931
+Addis Ababa,Addis Ababa,9.0272,38.7369,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3041002,1231824991
+Libreville,Libreville,0.3901,9.4544,Gabon,GA,GAB,Estuaire,primary,797003,1266952885
+,,13.598878,-14.947733,Gambia,,,,,,
+Accra,Accra,5.6037,-0.187,Ghana,GH,GHA,Greater Accra,primary,2291352,1288299415
+Conakry,Conakry,9.538,-13.6773,Guinea,GN,GIN,Conakry,primary,1667864,1324568159
+Bissau,Bissau,11.8592,-15.5956,Guinea-Bissau,GW,GNB,Bissau,primary,395954,1624168850
+Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000,1404000661
+Monrovia,Monrovia,6.3106,-10.8047,Liberia,LR,LBR,Montserrado,primary,1021762,1430477826
+Antananarivo,Antananarivo,-18.9386,47.5214,Madagascar,MG,MDG,Antananarivo,primary,2610000,1450978461
+Blantyre,Blantyre,-15.7861,35.0058,Malawi,MW,MWI,Blantyre,admin,1895973,1454145012
+Bamako,Bamako,12.6458,-7.9922,Mali,ML,MLI,Bamako,primary,2009109,1466965925
+Nouakchott,Nouakchott,18.0858,-15.9785,Mauritania,MR,MRT,,primary,1077169,1478414984
+Port Louis,Port Louis,-20.1667,57.5,Mauritius,MU,MUS,Port Louis,primary,149194,1480131261
+Casablanca,Casablanca,33.5992,-7.62,Morocco,MA,MAR,Casablanca-Settat,admin,4370000,1504175315
+Maputo,Maputo,-25.9153,32.5764,Mozambique,MZ,MOZ,Maputo,primary,1191613,1508074843
+Niamey,Niamey,13.5086,2.1111,Niger,NE,NER,Niamey,primary,1026848,1562932886
+Lagos,Lagos,6.45,3.4,Nigeria,NG,NGA,Lagos,minor,15487000,1566593751
+Kigali,Kigali,-1.9536,30.0606,Rwanda,RW,RWA,Kigali,primary,1156663,1646923541
+Pikine,Pikine,14.75,-17.4,Senegal,SN,SEN,Dakar,,1170791,1686165071
+Freetown,Freetown,8.4833,-13.2331,Sierra Leone,SL,SLE,Western Area,primary,951000,1694085071
+Johannesburg,Johannesburg,-26.2044,28.0416,South Africa,ZA,ZAF,Gauteng,admin,4434827,1710550792
+Khartoum,Khartoum,15.6031,32.5265,Sudan,SD,SDN,Khartoum,primary,6017000,1729268475
+Mbabane,Mbabane,-26.3208,31.1617,Swaziland,SZ,SWZ,Hhohho,primary,94874,1748811945
+Dar es Salaam,Dar es Salaam,-6.8,39.2833,Tanzania,TZ,TZA,Dar es Salaam,primary,7461000,1834843853
+Lomé,Lome,6.1319,1.2228,Togo,TG,TGO,Maritime,primary,837437,1768409132
+Kampala,Kampala,0.3136,32.5811,Uganda,UG,UGA,Kampala,primary,1659600,1800406299
+Lusaka,Lusaka,-15.4167,28.2833,Zambia,ZM,ZMB,Lusaka,primary,1742979,1894157390
+Harare,Harare,-17.8292,31.0522,Zimbabwe,ZW,ZWE,Harare,primary,2150000,1716196799
