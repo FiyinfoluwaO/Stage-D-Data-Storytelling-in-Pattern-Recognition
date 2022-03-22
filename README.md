@@ -27,3 +27,5 @@ Data Exploration on Africa's food production and consumption (supply), formulati
 **"food_dataGitems.csv"** This is the grouped food production dataset after the addition of Kilotons-unit.
 
 **"food_dataGyear.csv"** This is the food production dataset showing 3 columns: "Country", "Year", and "Value". It also contain the Totalled Value of Items produced in a year.
+
+**"Food Shortage Project Report by Fiyinfoluwa Olubodun.doc"** This is the report on the food shortage project for this stage D: Data Storytelling in Pattern Recognition
