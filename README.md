@@ -6,7 +6,7 @@ Data Exploration on Africa's food production and consumption (supply), formulati
 
 **"README.md"** This gives the full description of what the project and codes entails for ease of navigating through the files and to fully understand what each file contains.
 
-**"STAGE D DATA EXPLORATION.ipynb"** This is the MAIN PYTHON FILE of the project, showing all codes as illustrated in the Course Outline. This codes are replicates of the Wolfram Programming Language Codes in the Stage D: Pattern Recognition.
+**"STAGE D DATA EXPLORATION[1].ipynb"** This is the MAIN PYTHON FILE of the project, showing all codes as illustrated in the Course Outline. This codes are replicates of the Wolfram Programming Language Codes in the Stage D: Pattern Recognition.
 
 **"afr lat long.csv"** This is a CSV file containing the latitude and longitude of all african countries to help plot on the Map using PowerBI platform
 
