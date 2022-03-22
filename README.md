@@ -1,5 +1,5 @@
 ![ghnw20161124-084928-823](https://user-images.githubusercontent.com/97951021/159227506-2c8fab7f-33af-41cc-923d-4cc370da9aec.jpg)
-# Stage-D-Data-Storytelling-in-Pattern-Recognition
+# Stage-D-Data-Storytelling-in-Pattern-Recognition on FOOD SHORTAGE SOLUTION
 Data Exploration on Africa's food production and consumption (supply), formulating and testing a hypothesis, and visualisation of results.
 # DESCRIPTION OF THE FILES IN THE REPOSITORY
 **"African Countries Map.pbix"** This is the Map visualization of the Remaining 38 African Countries.
